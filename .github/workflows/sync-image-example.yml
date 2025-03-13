@@ -34,4 +34,4 @@ jobs:
     - name: Use Skopeo Tools Sync Image to Docker Hub
       run: |
         #!/usr/bin/env bash
-        docker://docker.io/nginx:latest docker://registry.cn-hangzhou.aliyuncs.com/duoduo_res/nginx:latest
+        docker://docker.io/langgenius/dify-sandbox:0.2.10 docker://registry.cn-hangzhou.aliyuncs.com/duoduo_res/langgenius/dify-sandbox:0.2.10
