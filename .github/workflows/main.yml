@@ -1,1 +1,1 @@
-skopeo copy docker://docker.io/rancher/fleet-agent:v0.9.5 docker://registry.cn-shenzhen.aliyuncs.com/duoduo_res/duoduo/fleet-agent:v0.9.5
+skopeo copy docker://docker.io/rancher/fleet-agent:v0.9.5 docker://registry.cn-shenzhen.aliyuncs.com/duoduo_res/fleet-agent:v0.9.5
